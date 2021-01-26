@@ -1,0 +1,28 @@
+.catalogCard {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 200px;
+    height: 322px;
+    margin: 50px 100px;
+    padding: 10px;
+    box-shadow: 5px 5px 10px 5px rgba(0, 0, 0, .4)
+}
+
+.catalogCard:hover {
+    box-shadow: 0 0 50px 18px rgba(222, 184, 135, .4), 0 0 20px 4px rgba(222, 184, 135, .8);
+}
+
+.catalogCard * {
+    margin-bottom: 10px;
+}
+
+.catalogCard__img {
+    width: 180px;
+    height: 180px;
+    text-align: center;
+}
+
+.catalogCard__img img {
+    height: 100%;
+}

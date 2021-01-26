@@ -1,0 +1,43 @@
+.counter {
+    width: 80px;
+    height: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.counter__buttonSub {
+    width: 20px;
+    height: 20px;
+    border: 1px black solid;
+    border-radius: 4px;
+    background-color: brown;
+    text-align: center;
+    line-height: 16px;
+}
+
+.counter__quantity {
+    width: 30px;
+    height: 20px;
+    margin: 0 5px;
+    border: 1px black solid;
+    border-radius: 4px;
+    background-color: #F6F6F6;
+    text-align: center;
+    line-height: 20px;
+}
+
+.counter__buttonAdd{
+    width: 20px;
+    height: 20px;
+    border: 1px black solid;
+    border-radius: 4px;
+    background-color: green;
+    text-align: center;
+    line-height: 20px;
+}
+
+
+.counter_hover:hover {
+    cursor: pointer;
+}
