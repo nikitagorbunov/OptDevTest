@@ -2,7 +2,7 @@
   "name": "opt_dev",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://nikitagorbunov.github.io/OptDevTest",
+  "homepage": "https://nikitagorbunov.github.io/OptDevTest/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.9",
     "@testing-library/react": "^11.2.3",
